@@ -1,10 +1,10 @@
 # bachelor-thesis-code of Leonie Weber
 
-This repository contains the data and analysis code for my bachelor thesis.
+This repository contains the analysis code for my bachelor thesis.
 
-Beware when cloning this repository - the data contained is about 30 GB.
+The actual analysis code is in `calcium_signal_analysis.py` and the preprocessing code is in `preprocessing.py`
 
-Recreate my analysis with 
+The analysis is executed by
 ``` 
 python run_preprocessing.py 
 python run_analysis.py
