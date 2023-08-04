@@ -1,0 +1,13 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+fnmatch
+glob
+matplotlib
+numpy
+os
+pandas
+re
+scikit_posthocs
+scipy
+seaborn
